@@ -2,7 +2,32 @@
     height: 20%;
     min-height: 100px;
     width: 100%;
-    position: absolute;
-    background-color: powderblue;
+    position: relative;
+    background-color: cadetblue;
     text-align: center;
+}
+
+.Header_Image{
+    width: 50%;
+}
+
+.Header_Text{
+    text-align: center;
+    margin-top: 50px;
+}
+
+.imgCenter {
+    margin-top: 5%;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+
+.Container {
+    margin-top: 2%;
+}
+
+.Row{
+    margin-bottom: 20px;
 }
